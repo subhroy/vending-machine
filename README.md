@@ -1,7 +1,5 @@
-# vending-machine
-
-Problem Stmt:
-=============
+## Problem Stmt:
+================
 # Spark Vending machine
 
 Our company is growing very fast with all the new aquisitions. We are trying to cope with all the demand our employees have for food and beverages. 
