@@ -1,6 +1,4 @@
-## Problem Stmt:
-================
-# Spark Vending machine
+# Problem Statement : Spark Vending machine
 
 Our company is growing very fast with all the new aquisitions. We are trying to cope with all the demand our employees have for food and beverages. 
 We estimated that it would be too hard to aquire multiple vending machines and suite them to our needs, therefore we decided to build our own, smarter ones.
